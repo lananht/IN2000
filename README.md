@@ -14,7 +14,7 @@ I dette repositoriet finner du en oppskrift på hvordan man kan kjøre applikasj
 
 
 ## 📄Dokumentasjon 
-[ARCHITECTURE.md](https://github.uio.no/IN2000-V24/team-37/blob/master/ARCHITECTURE.md) \
+[ARCHITECTURE.md](https://github.com/lananht/IN2000/blob/main/ARCHITECTURE.md) \
 [MODELING.md](https://github.uio.no/IN2000-V24/team-37/blob/master/MODELING.md) 
 
 
