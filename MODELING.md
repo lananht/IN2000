@@ -44,7 +44,7 @@ Applikasjonen tilbyr filtrering av søk slik at brukerne kan filtrere badesteden
 
 ### Sekvensdiagram
 
-![Sekvens diagram1](Images/sekvens.png)
+![Sekvens diagram1](Images/sekvensdiagram.png)
 
 ### Klassediagram 
 
@@ -62,7 +62,7 @@ Når brukeren trykker på et badekort, vises det et utvalg av kollektivtransport
 
 ### Use Case-diagram
 
-<img width="823" alt="Skjermbilde 2024-05-06 kl  15 51 03" src="https://media.github.uio.no/user/9706/files/5584640a-3e67-4199-a964-5075bca36123">
+![Use-Case 3](Images/usecase3.png)
 
 
 ## Funksjonalitet: Legge til favoritter 
@@ -80,11 +80,11 @@ A1.1. Systemet fjerner badestedet fra favoritter
 
 ### Sekvensdiagram
 
-<img width="457" alt="Skjermbilde 2024-05-09 kl  22 42 45" src="https://media.github.uio.no/user/9706/files/cc837fc2-7b97-44ce-8278-b2ee4965e5fc">
+![Sekvensdiagram 2](Images/sekvensdiagram2.png)
 
 ### Tilstandsdiagram
 
-<img width="757" alt="Skjermbilde 2024-05-09 kl  22 44 25" src="https://media.github.uio.no/user/9706/files/42fda48c-d58b-45a0-8ccd-e305424c98cc">
+![Tilstandsdiagram](Images/tilstandsdiagram2.png)
 
 ## Funksjonalitet: Visning av nærmeste badesteder 
 Hvis brukeren tillater stedstilgang, blir badestedene sortert etter avstand. På denne måten kan brukerne lett finne fram til sine nærmeste badesteder uten å måtte scrolle langt. Hvis brukeren derimot avslår stedstilgang, blir badestedene sortert alfabetisk.
@@ -101,7 +101,7 @@ Avslutt flyt
 
 ### Sekvensdiagram
 
-<img width="540" alt="Skjermbilde 2024-05-14 kl  22 37 13" src="https://media.github.uio.no/user/9706/files/75497acf-21c3-4124-97fe-0a1d076a49b4">
+![Sekvenssiagram](Images/sekvensdiagram2.png)
 
 
 
