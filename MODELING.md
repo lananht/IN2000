@@ -13,11 +13,11 @@ Når brukeren trykker på et badested, presenteres de for nyttig informasjon om 
 
 ### Use Case-diagram 
 
-<img width="757" alt="Skjermbilde 2024-05-13 kl  11 57 58" src="https://media.github.uio.no/user/9706/files/602f387d-7273-4ddc-b267-a262e3e90fbf">
+![Use-Case 1](Images/usecase.png)
 
 ### Klassediagram
 
-<img width="681" alt="Skjermbilde 2024-05-14 kl  22 34 38" src="https://media.github.uio.no/user/9706/files/82f1c89a-cb57-4c43-9907-f17df65398e8">
+![Klassediagram 1](Images/klassediagram.png)
 
 
 ## Funksjonalitet: Filtrert søk 
@@ -36,19 +36,19 @@ Applikasjonen tilbyr filtrering av søk slik at brukerne kan filtrere badesteden
 
 ### Use Case-diagram
 
-<img width="708" alt="Skjermbilde 2024-05-06 kl  15 49 32" src="https://media.github.uio.no/user/9706/files/4585cd92-c538-46ad-a768-0eb3feaa5165">
+![Use-Case 2](Images/usecase2.png)
 
 ### Tilstandsdiagram
 
-<img width="814" alt="Skjermbilde 2024-05-09 kl  22 46 10" src="https://media.github.uio.no/user/9706/files/21bb8908-7f37-44aa-b107-ae8e7eeaff44">
+![Tilstandsdiagram](Images/tilstandsdiagram.png)
 
 ### Sekvensdiagram
 
-<img width="921" alt="Skjermbilde 2024-05-14 kl  22 36 31" src="https://media.github.uio.no/user/9706/files/fd63b7b1-0084-4cb3-9d4f-224ad691895b">
+![Sekvens diagram1](Images/sekvens.png)
 
 ### Klassediagram 
 
-<img width="444" alt="Skjermbilde 2024-05-14 kl  22 33 13" src="https://media.github.uio.no/user/9706/files/6126e663-e8f8-4e95-86d9-6007cd0ced59">
+![Klassediagram 1](Images/klassediagram.png)
 
 
 ## Funksjonalitet: Visning av kollektivtransport
