@@ -4,7 +4,7 @@ Badeturisme er en applikasjon som tilbyr en detaljert oversikt om vær- og badef
 I dette repositoriet finner du en oppskrift på hvordan man kan kjøre applikasjonen, informasjon om hvor dokumentasjon av prosjektet ligger og en oversikt over biblioteker som er brukt i prosjektet.
 
 ## 📸Skjermbilder av applikasjonen
-<img width="984" alt="Screenshot 2024-05-14 at 08 48 45" src="https://media.github.uio.no/user/9646/files/a6ca5c21-a987-413a-b406-225aaa14e0cd">
+![Skjermbilder av applikasjonen](Images/skjermbilde.png)
 
 ## 🧑‍🍳Oppskrift
 1. For å kunne få tilgang til applikasjonen må du først laste ned [latest version of Android Studio](https://developer.android.com/studio)
